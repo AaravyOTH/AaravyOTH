@@ -11,7 +11,7 @@
 
 ### Unity & Virtual Reality🕹️
 - <a href="https://www.google.com/" target="_blank">VR project name</a>
-- <a href="https://www.google.com/" target="_blank">Run Platformer Game</a>
+- <a href="[https://www.google.com/](https://github.com/AaravyOTH/SimpleRunGame)" target="_blank">Run Platformer Game</a>
 
 ### Python 🐍
 - <a href="https://www.google.com/" target="_blank">Python project name</a>
