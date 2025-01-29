@@ -2,18 +2,7 @@
 
 ## Programming
 ### Android Studios (Java)📱
-- <a href="https://www.google.com/" target="_blank">Pokedex</a>
-- <a href="https://www.google.com/" target="_blank">Weather</a>
-- <a href="https://www.google.com/" target="_blank">Calculator</a>
-
-### Java 🌄 
-- <a href="https://www.google.com/" target="_blank">Java project name</a>
-
-### Unity & Virtual Reality🕹️
-- <a href="https://www.google.com/" target="_blank">VR project name</a>
-- <a href="[https://www.google.com/](https://github.com/AaravyOTH/SimpleRunGame)" target="_blank">Run Platformer Game</a>
-
-### Python 🐍
-- <a href="https://www.google.com/" target="_blank">Python project name</a>
+- <a href="https://github.com/AaravyOTH/CookieClicker" target="_blank">Cookie Clicker Game</a>
+- <a href="https://github.com/AaravyOTH/HyruleCompendium" target="_blank">Hyrule Compendium</a>
 
 <a href="https://github.com/tomondre"><img src="contributions.svg"></a>
