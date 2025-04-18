@@ -1,4 +1,4 @@
-@AaravyOTH 
+AaravyOTH 
 
 Game Development, Computer Science, Math
 
@@ -12,7 +12,7 @@ Game Development, Computer Science, Math
 ### Programming
 - <a href="https://github.com/AaravyOTH/CNumberSystemConverter" target="_blank">Number System Converter in C</a>
 
-### Android Studios (Java)📱
+### Android Studios (Java)
 - <a href="https://github.com/AaravyOTH/CookieClicker" target="_blank">Cookie Clicker Game</a>
 - <a href="https://github.com/AaravyOTH/HyruleCompendium" target="_blank">Hyrule Compendium</a>
 - <a href="https://github.com/AaravyOTH/WeatherProject" target="_blank">Weather App in Android</a>
