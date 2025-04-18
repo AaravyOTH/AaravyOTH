@@ -2,7 +2,7 @@
 
 Game Development, Computer Science, Math
 
-#Public Repos
+# Public Repos
 ## Programming
 
 ### Websites
