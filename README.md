@@ -1,5 +1,5 @@
-#@AaravyOTH 🐐
-
+#@AaravyOTH 
+#Game Development, Computer Science, Math
 ## Programming
 
 ### Websites
