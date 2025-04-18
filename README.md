@@ -1,5 +1,8 @@
-#@AaravyOTH 
-#Game Development, Computer Science, Math
+@AaravyOTH 
+
+Game Development, Computer Science, Math
+
+#Public Repos
 ## Programming
 
 ### Websites
